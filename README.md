@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GREGDGamer1
-- 👀 I’m interested in Hacks
-- 🌱 I’m currently learning how to hack
+- 👀 I’m interested in idk
+- 🌱 I’m currently learning how to idk
 - 📫 How to reach me gregdgamer1@gmail.com
 
 <!---
