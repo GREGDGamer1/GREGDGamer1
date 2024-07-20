@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GREGDGamer1
-- 👀 I’m interested in idk
-- 🌱 I’m currently learning how to idk
+- 👀 I’m interested in video games
+- 🌱 I’m currently learning how to use godot
 - 📫 How to reach me gregdgamer1@gmail.com
 
 <!---
